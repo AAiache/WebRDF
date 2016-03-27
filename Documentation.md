@@ -16,4 +16,9 @@ Every langage has its syntax and its semantics:
 
 That is to say, different syntaxes may have the same semantic (e.g: a = a + b and a+= b). In other words, syntax and semantics are all about **communication**.  
 
+The **Web** is a system of interlinked documents accessed via the **Internet**. Web browsers use HTTP to protocol to communicate with Web servers, you can view Web pages and use hyperlinks to navigate between them. By a simple click, people can easily access any of these documents: this is the largest source of information ever.
 
+###The problem:
+
+- Web pages are written in HTML, which is a language that describes the structure of information: it describes the syntax not the semantics.
+- If computers could understand the meaning behind information, they would be able to learn what we are interested in, and then help us find better what we are looking for. This is really what Semantic Web is about.
