@@ -13,6 +13,7 @@
 Every langage has its syntax and its semantics:  
 - Syntax is the grammar: **How** to say something
 - Semantic is the study of meaning: the **meaning** behind what you say.  
-That is to say, different syntaxes may have the same semantic: a = a + b and a+= b. In other words, syntax and semantics are all about **communication**.  
+
+That is to say, different syntaxes may have the same semantic (e.g: a = a + b and a+= b). In other words, syntax and semantics are all about **communication**.  
 
 
