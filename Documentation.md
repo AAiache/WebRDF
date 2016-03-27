@@ -22,3 +22,5 @@ The **Web** is a system of interlinked documents accessed via the **Internet**. 
 
 - Web pages are written in HTML, which is a language that describes the structure of information: it describes the syntax not the semantics.
 - If computers could understand the meaning behind information, they would be able to learn what we are interested in, and then help us find better what we are looking for. This is really what Semantic Web is about.
+_ Unlike current Web, which is all about documents, the Semantic Web is about things:
+![alt text](http://example.com/logo.png)
