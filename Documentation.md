@@ -29,10 +29,17 @@ Source: http://redlink.co/semantic-content-management/
 
 ###Solution: Resource Description Framework
 
-**RDFA** standard for describing resources in the Web, it indentifies things using URIs (Uniform Resourse Identifiers). Besides, it uses **Triples** to descibe things: **Subject** Thing - **Predicate** Property - **Object** Velue.
+**RDFA** standard of the World Wide Web Consortium (W3C) for describing resources in the Web, it indentifies things using URIs (Uniform Resourse Identifiers). Besides, it uses **Triples** to descibe things: **Subject** (Thing) - **Predicate** (Property) - **Object** (Value).
 
 ###Example: RDF desciption of a person named Eric Miller  
 
 ![alt text](https://github.com/AAiache/WebRDF/blob/master/images/Rdf_graph_for_Eric_Miller.png?raw=true)  
 Source: https://en.wikipedia.org/wiki/Resource_Description_Framework  
 
+###What is RDFa?
+
+RDFa: RDF in attributes, it provides a set of XHTML attributes that express RDF data.
+
+###What is SPARQL?
+
+SPARQL is the stadard language to query graph data represented as RDF triples.
