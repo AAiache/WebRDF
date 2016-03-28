@@ -33,6 +33,6 @@ Source: http://redlink.co/semantic-content-management/
 
 ###Example: RDF desciption of a person named Eric Miller  
 
-![alt text](https://github.com/AAiache/WebRDF/blob/master/images/Rdf_graph_for_Eric_Miller?raw=true)  
+![alt text](https://github.com/AAiache/WebRDF/blob/master/images/Rdf_graph_for_Eric_Miller.png?raw=true)  
 Source: https://en.wikipedia.org/wiki/Resource_Description_Framework  
 
