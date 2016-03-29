@@ -31,7 +31,7 @@ Source: http://redlink.co/semantic-content-management/
 
 **RDF** is a standard of the World Wide Web Consortium (W3C) for describing resources in the Web, it indentifies things using URIs (Uniform Resourse Identifiers). Besides, it uses **Triples** to descibe things: **Subject** (Thing) - **Predicate** (Property) - **Object** (Value).
 
-###Example: RDF description of a person named Eric Miller  
+###Example: RDF description of a person named Amina Aiache  
 
 ![alt text](https://github.com/AAiache/WebRDF/blob/master/images/example.png?raw=true)  
 Source: https://en.wikipedia.org/wiki/Resource_Description_Framework  
